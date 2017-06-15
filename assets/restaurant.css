@@ -1,0 +1,17 @@
+.jumbotron {
+    margin-bottom: 2px;
+    text-align: center;
+}
+
+.glyphicon-fire:before {
+    content: "\e104";
+}
+
+.col-lg-12 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+
+.text-right {
+    text-align: left;
+}
